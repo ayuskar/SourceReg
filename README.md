@@ -1,0 +1,1 @@
+This is a basic login/register website in php which consist of sending verification email after registration to verify. There is update profile/password section too and a forgot password section as well.
